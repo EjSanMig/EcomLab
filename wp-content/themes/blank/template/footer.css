@@ -1,0 +1,24 @@
+body{
+	padding: 0;
+	margin: 0;
+}
+footer{
+	height: 180px;
+}
+footer h1{
+	font-family: candara;
+	position: relative;
+	left: 150px;
+	top: 110px;
+}
+footer span{
+	position: relative;
+	top: 65px;
+	left: 260px;
+}
+.content-1{
+	width: 250px;
+	left: 900px;
+	position: relative;
+	bottom: 100px;
+}

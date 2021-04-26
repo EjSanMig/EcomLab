@@ -1,0 +1,90 @@
+body{
+	padding: 0;
+	margin: 0;
+	overflow-x: hidden;
+}
+.container-1{
+	position: relative;
+}
+.container-1 img{
+	width: 100%;
+}
+.container-1 h1{
+	position: absolute;
+	top: 320px;
+	font-family: papyrus;
+	font-size: 80px;
+	font-weight: bolder;
+	left: 550px;		
+}
+.container-2{
+	height: 200px;
+}
+.container-2 h1{
+	position: absolute;
+	padding: 15px 70px;
+}
+.container2-content{
+	background-color: #ebebeb;
+	height: 100%;
+	padding-top: 90px;
+	margin: 5px auto;
+}
+.free h1{
+	border: 1px dashed gray;
+	left: 50px;
+}
+.discount h1{
+	border: 1px dashed gray;
+	left: 450px;
+}
+.quality h1{
+		border: 1px dashed gray;
+		left: 1100px;
+}
+.img-container-1{
+	position: absolute;
+	border: 1px solid black;
+	left: 50px;	
+}
+.img-container-2{
+	position: absolute;
+	left: 350px;
+	border: 1px solid black;
+}
+.img-container-3{
+	position: absolute;
+	left: 735px;
+	border: 1px solid black;
+}
+.img-container-4{
+	position: absolute;
+	left: 1120px;
+	border: 1px solid black;
+}
+.container-3 img{
+	max-width: 350px;
+	max-height: 350px;
+}
+.container-3{
+	position: relative;
+	height: 580px;
+	top: 100px;
+}
+.container-4{
+	position: relative;
+	font-family: candara;
+	top: 100px;
+	height: 800px;
+	background-color: #ebebeb;
+	margin-bottom: 120px;
+}
+.container-4 h1{
+	font-size: 55px;
+	text-align: center;
+}
+.container-4-content{
+	width: 60%;
+	margin: 1px auto;
+	text-align: justify;
+}
